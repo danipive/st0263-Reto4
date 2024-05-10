@@ -23,6 +23,8 @@ Arquitectura:
 
 # 4. Video
 https://youtu.be/pJlhip4pK4w
+![image](https://github.com/danipive/st0263-Reto4/assets/92877092/817f21fe-3c0c-4f56-851a-5565784ee1ec)
+
 
 # Referencias:
 - git proporcionado por el profesor: https://github.com/st0263eafit/st0263-241/tree/main/docker-nginx-wordpress-ssl-letsencrypt
