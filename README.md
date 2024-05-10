@@ -22,7 +22,7 @@ Arquitectura:
   ## Descripción y configuración del proyecto
 
 # 4. Video
-
+https://youtu.be/pJlhip4pK4w
 
 # Referencias:
 - git proporcionado por el profesor: https://github.com/st0263eafit/st0263-241/tree/main/docker-nginx-wordpress-ssl-letsencrypt
